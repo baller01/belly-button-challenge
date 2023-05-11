@@ -10,10 +10,10 @@ The dashboard displays demographic information of each individual participant, a
 
 ## Languages Used
 
-JavaScript
-D3.js
-Plotly.js
-HTML/CSS
+* JavaScript
+* D3.js
+* Plotly.js
+* HTML/CSS
 
 
 To run the dashboard, simply open the index.html file in a web browser. The dashboard will automatically load the first individual in the dataset, and the charts and demographic information will be displayed accordingly.
